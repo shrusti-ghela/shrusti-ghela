@@ -5,7 +5,7 @@ I am Shrusti, a graduate student at University of Washington pursuing a Master's
 ### 📝 Relevant Courses
 - CSE 573: Artificial Intelligence
 - DATA 558: Statistical Machine Learning
-- DATA 598 A: Time SerieS Analysis
+- DATA 598 A: Time Series Analysis
 - DATA 557: Applied Statistics and Experimental Design
 - DATA 515: Software Design for Data Science
 - DATA 556: Statistics and Probability
